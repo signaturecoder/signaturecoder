@@ -1,5 +1,6 @@
-### Hi there 👋 I'm Sanu Kumar
-#### I'm a Developer, Programmer and Open Souce Contribution Enthusiast
+### Hi there 👋 I'm Sanu Kumar as **Signaturecoder** accross coding platforms
+
+#### I'm a Developer.
 
 <!--
 **signaturecoder/signaturecoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +21,13 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React Native + Typescipt.
 - 💬 Ask me about Web Developement, Mobile Development
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=signaturecoder)
+## My GitHub Stats 📊
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=signaturecoder&count_private=true&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=signaturecoder" />
+</a>
 
 
 ### 🛠  Tech Stack
@@ -34,7 +41,7 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaSript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-### 🤝🏻 connect with Me
+### 🤝🏻 Connect with Me
 
-[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/sanu-kumar-1a2866103/)     [https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white](https://hashnode.com/@signatureblogger) [https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white](https://twitter.com/sanukmr333)
+[LinkedIn](https://www.linkedin.com/in/sanu-kumar-1a2866103/)     [https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white](https://hashnode.com/@signatureblogger) [twitter](https://twitter.com/sanukmr333)
 
