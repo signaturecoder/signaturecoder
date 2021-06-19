@@ -23,7 +23,10 @@ Here are some ideas to get you started:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=signaturecoder)
 
-#### connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/sanu-kumar-1a2866103/)     [Blog](https://hashnode.com/@signatureblogger) [twitter](https://twitter.com/sanukmr333)
+🛠  Tech Stack
+![JavaSript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+#### 🤝🏻 connect with Me
+
+![LinkedIn](https://www.linkedin.com/in/sanu-kumar-1a2866103/)     ![Blog](https://hashnode.com/@signatureblogger) ![twitter](https://twitter.com/sanukmr333)
 
