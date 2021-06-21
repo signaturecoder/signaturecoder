@@ -43,5 +43,5 @@ Here are some ideas to get you started:
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ### 🤝🏻 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/sanu-kumar-1a2866103/)     [https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white](https://hashnode.com/@signatureblogger) [twitter](https://twitter.com/sanukmr333)
+[LinkedIn](https://www.linkedin.com/in/sanu-kumar-1a2866103/)     [Blog](https://hashnode.com/@signatureblogger) [twitter](https://twitter.com/sanukmr333)
 
