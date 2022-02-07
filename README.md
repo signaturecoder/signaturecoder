@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Angular, React.
+- 🔭 I’m currently working on Next.js, React, Angular.
 - 🌱 I’m currently learning React Native + Typescipt.
 - 💬 Ask me about Web Developement, Mobile Development
 
